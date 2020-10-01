@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://cseslowpoke.github.io/about/index.html</loc>
-    
-    <lastmod>2020-10-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://cseslowpoke.github.io/2020/10/01/%E5%8D%81%E6%9C%88%E4%BA%86/</loc>
     
     <lastmod>2020-10-01</lastmod>
@@ -24,6 +17,13 @@
   
   <url>
     <loc>https://cseslowpoke.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-09-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://cseslowpoke.github.io/about/index.html</loc>
     
     <lastmod>2020-09-30</lastmod>
     
