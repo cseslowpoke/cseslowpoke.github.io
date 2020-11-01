@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cseslowpoke.github.io/2020/11/01/Codeforces-Round-680-Div-2-based-on-Moscow-Team-Olympiad/</loc>
+    
+    <lastmod>2020-11-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://cseslowpoke.github.io/2020/10/03/%E7%A8%8D%E5%BE%AE%E7%9A%84%E4%BB%8B%E7%B4%B9/</loc>
     
     <lastmod>2020-10-03</lastmod>
@@ -39,7 +46,7 @@
 
   <url>
     <loc>https://cseslowpoke.github.io/</loc>
-    <lastmod>2020-10-21</lastmod>
+    <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -49,7 +56,7 @@
   
   <url>
     <loc>https://cseslowpoke.github.io/categories/%E9%96%92%E8%81%8A/</loc>
-    <lastmod>2020-10-21</lastmod>
+    <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
